@@ -26,13 +26,13 @@ The project includes:
 ---
 
 ## 📁 Project Structure
-
+```
 ├── Food101_model.ipynb       # Notebook for training and comparing two models (Polish)
 ├── Food101_app.ipynb         # Notebook with a Gradio web app for food prediction (Polish)
 ├── mobilenet_food101.pth     # Saved MobileNet model trained on Food101 dataset
 ├── requirements_model.txt    # Required packages for training
 ├── requirements_app.txt      # Required packages for running the app
-
+```
 
 ## 🏗️ What Has Been Done
 
